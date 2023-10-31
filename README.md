@@ -23,7 +23,7 @@ docker-compose up
 See in-app menus for help with using specific features.
 
 # License
-The KSBank License (KSBank)
+This project is Licensed under [MIT Lisence.](https://github.com/Chunleshy/KS_Bank/blob/main/LICENSE)
 
 Copyright (c) Olukunle Amoo & Screean Rikkala. 2023
 
