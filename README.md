@@ -27,4 +27,3 @@ The KSBank License (KSBank)
 
 Copyright (c) Olukunle Amoo & Screean Rikkala. 2023
 
-insert (KSBank) License text here
